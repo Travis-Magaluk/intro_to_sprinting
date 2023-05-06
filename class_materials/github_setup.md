@@ -8,6 +8,15 @@
 10 Minutes
 
 
+<div style="background-color:rgba(255, 255, 152, .9); text-align:left; vertical-align: middle; padding:10px 0;">
+📝<b>  Note: </b> this is a note about a special topic that exists in the stuff and things.
+
+</div>
+<div style="background-color:rgba(255, 68, 51, .7); text-align:left; vertical-align: middle; padding:10px 0;">
+⚠️<b>  WARNING: </b> You definitly do not want to do this.
+</div>
+
+
 ## Overview
 
 GitHub is a web-based version control repository. It also serves as an Internet hosting service. GitHub provides the functionality of `Git` (such as distributed version control and source code management). It also offers:
